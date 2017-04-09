@@ -1,0 +1,6 @@
+5.3.6p7:2.2.0.0
+WebPlayer
+D:/Program Files/Unity5.3.6/Editor/Data/Managed/UnityEngine.dll
+D:/Program Files/Unity5.3.6/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Program Files/Unity5.3.6/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Program Files/Unity5.3.6/Editor/Data/Managed/UnityEditor.dll
