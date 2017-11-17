@@ -25,4 +25,4 @@
 按键u： 取消显示最后一个物体的小地图icon
 
 更详细内容 请查看站点：http://www.u3d8.com/?p=1081
-![image](http://www.u3d8.com/wp-content/uploads/2017/04/%E5%B0%8F%E5%9C%B0%E5%9B%BE%E6%98%BE%E7%A4%BAicon.gif)
+![image](http://www.u3d8.com/wp-content/uploads/2017/11/QQ%E6%88%AA%E5%9B%BE20171117114417.png)
